@@ -1,0 +1,6 @@
+/Users/ernar/Projects/Far_Manager/obj/x86/Debug/Far_Manager.csprojAssemblyReference.cache
+/Users/ernar/Projects/Far_Manager/obj/x86/Debug/Far_Manager.csproj.CoreCompileInputs.cache
+/Users/ernar/Projects/Far_Manager/bin/Debug/Far_Manager.exe
+/Users/ernar/Projects/Far_Manager/bin/Debug/Far_Manager.pdb
+/Users/ernar/Projects/Far_Manager/obj/x86/Debug/Far_Manager.exe
+/Users/ernar/Projects/Far_Manager/obj/x86/Debug/Far_Manager.pdb

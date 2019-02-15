@@ -1,0 +1,6 @@
+/Users/ernar/Desktop/PP2_/week2 /task1/bin/Debug/task1.exe
+/Users/ernar/Desktop/PP2_/week2 /task1/bin/Debug/task1.pdb
+/Users/ernar/Desktop/PP2_/week2 /task1/obj/x86/Debug/task1.csprojAssemblyReference.cache
+/Users/ernar/Desktop/PP2_/week2 /task1/obj/x86/Debug/task1.csproj.CoreCompileInputs.cache
+/Users/ernar/Desktop/PP2_/week2 /task1/obj/x86/Debug/task1.exe
+/Users/ernar/Desktop/PP2_/week2 /task1/obj/x86/Debug/task1.pdb
